@@ -40,3 +40,5 @@ The output will be
 ```
 param 1 was: myArg1 and param 2 was: myArg2
 ```
+## Click Library
+For input parameter usage the _click_ library was used. See [https://click.palletsprojects.com/en/5.x/](https://click.palletsprojects.com/en/5.x/)
