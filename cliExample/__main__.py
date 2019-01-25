@@ -11,7 +11,7 @@ def executeMe(argument1, argument2):
     """
     #sys.exit("something was wrong. cancelled script")
 
-    print("param 1 was: " + argument1 + " and param 2 was: " + argument2)
+    click.echo("param 1 was: " + argument1 + " and param 2 was: " + argument2)
 
 if __name__ == '__main__':				
     executeMe()			
